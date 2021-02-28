@@ -14,8 +14,8 @@
 Пример: в массиве 23145314  (23  145   3  14) содержится  4 серии
 
 Составить таблицу следующего вида (данные получить экспериментально) для n=100, 200, 300, 400, 500. (n – количество элементов в массиве)
-![alt text](https://github.com/ssplant/MinesweeperWPF/blob/master/example.PNG "Пример")
+![alt text](https://github.com/ssplant/Array-sorting-methods/blob/master/example.PNG "Пример")
 
 Полученные данные:
-![alt text](https://github.com/ssplant/MinesweeperWPF/blob/master/my.PNG "Методы сортировки и их сложность")
+![alt text](https://github.com/ssplant/Array-sorting-methods/blob/master/my.PNG "Методы сортировки и их сложность")
 
